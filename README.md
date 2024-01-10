@@ -24,8 +24,9 @@ Pildot uzdevumus, Jums būs jāizmanto:
 
 Par katru eksāmenu uzdevumu jūs saņemsiet vienādu punktu skaitu. Maksimālais izmēģinājuma eksāmena vērtējums ir 10 balles.
 
-## Atkārtota Eksāmena Iespējas
+## Eksāmena Iespējas
 
-Izmēģinājuma eksāmenu var pildīt vairākas reizes.
+- Izmēģinājuma eksāmenu var pildīt vairākas reizes.
+- Pildot uzdevumus programmas kodu NAV jāiesniedz.
 
 **Vēlu Jums veiksmi pildot sagatavošanas eksāmenu!**
